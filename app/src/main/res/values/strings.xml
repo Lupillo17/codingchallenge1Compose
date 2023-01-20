@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">codingchallenge1Compose</string>
+    <string name="title_activity_number_two">NumberTwoActivity</string>
+
+    <string name="empty">Campos vacios</string>
+
+    <string name="btnNext">Siguiente</string>
+    <string name="btnSum">Sumar</string>
+    <string name="btnClose">Cerrar</string>
+
+    <string name="tvHintNum1">Numero 1</string>
+    <string name="tvHintNum2">Numero 2</string>
+    <string name="par">PAR</string>
+    <string name="impar">IMPAR</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
